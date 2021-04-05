@@ -23,13 +23,13 @@
 
 ⬇️**点击下方图片留言**⬇️
 
-[![](https://api.moedog.org/room/@xb2016.github/svg?width=600&height=150&limit=20&theme=light&title=xb2016@github:%20~&fontSize=13)](https://api.moedog.org/room/@xb2016.github?title=%E7%8B%97%E5%AD%90%E7%9A%84%20Github%20%E7%95%99%E8%A8%80%E6%9D%BF)
+[![](https://api.moedog.org/room/@MoeRinSora.github/svg?width=600&height=150&limit=20&theme=light&title=MoeRinSora@github:%20~&fontSize=13)](https://api.moedog.org/room/@MoeRinSora.github?title=%E7%8B%97%E5%AD%90%E7%9A%84%20Github%20%E7%95%99%E8%A8%80%E6%9D%BF)
 
 #### Github Stats
-[![info](https://github-readme-stats.vercel.app/api?username=xb2016&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
+[![info](https://github-readme-stats.vercel.app/api?username=MoeRinSora&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xb2016&layout=compact&langs_count=6&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoeRinSora&layout=compact&langs_count=6&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 📊 每周工作报告
 ```text
@@ -38,7 +38,7 @@
 ```
 
 <!--
-**xb2016/xb2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MoeRinSora/MoeRinSora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
