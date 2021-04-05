@@ -1,5 +1,5 @@
 <p>
-  <a href="https://count.getloli.com/count/"><img src="https://count.getloli.com/get/@MoeRinSora"></a>
+  <a href="https://count.getloli.com/get/"><img src="https://count.getloli.com/get/@MoeRinSora"></a>
   <img src="https://weather-icon.journeyad.repl.co/@hangzhou?v=1" align="right">
 </p>
 
@@ -26,7 +26,7 @@
 
 ⬇️**点击下方图片留言**⬇️
 
-[![](https://count.getloli.com/room/@MoeRinSora.github/svg?width=600&height=150&limit=20&theme=light&title=MoeRinSora@github:%20~&fontSize=13)](https://count.getloli.com/room/@MoeRinSora.github?title=晓空的Github留言板)
+[![](https://chat.getloli.com/room/@MoeRinSora/svg?width=600&height=150&limit=20&theme=light&title=MoeRinSora@github:%20~&fontSize=13)](https://count.getloli.com/room/@MoeRinSora?title=晓空的Github留言板)
 
 #### Github Stats
 [![info](https://github-readme-stats.vercel.app/api?username=KJZH001&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
