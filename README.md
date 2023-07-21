@@ -30,7 +30,7 @@
 [![](https://chat.getloli.com/room/@MoeRinSora/svg?width=600&height=150&limit=20&theme=light&title=MoeRinSora@github:%20~&fontSize=13)](https://chat.getloli.com/room/@MoeRinSora?title=晓空的Github留言板)
 
 #### Github Stats
-[![info](https://github-readme-stats-git-main-kjzh001.vercel.app/api?username=KJZH001&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
+[![info](https://github-readme-stats-gray-alpha-29.vercel.app/api?username=KJZH001&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KJZH001&layout=compact&langs_count=6&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
