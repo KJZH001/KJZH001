@@ -1,6 +1,12 @@
 <p>
   <a href="https://count.getloli.com/get/"><img src="https://count.getloli.com/get/@MoeRinSora"></a>
   <img src="https://api.moeworld.top/weather-icon/?@wenzhou?v=1" align="right">
+  <!--
+  这个天气的图标真的是个遗憾的故事
+  我翻遍了谷歌也没找到完整的一套图标，这个服务也随着replit关闭免费服务而倒下了
+  从互联网档案馆翻遍了，也只取回了三张缓存下来的图标，尽力了= =
+  当前三张图标随机返回，夜晚仅会在晚上触发，中国标准时为准
+  by 晓空 2024.3.30 7:35PM-->
 </p>
 
 #### Platform&Tools
