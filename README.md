@@ -1,6 +1,6 @@
 <p>
   <a href="https://count.getloli.com/get/"><img src="https://count.getloli.com/get/@MoeRinSora"></a>
-  <img src="https://weather-icon.journeyad.repl.co/@hangzhou?v=1" align="right">
+  <img src="https://api.moeworld.top/weather-icon/?@wenzhou?v=1" align="right">
 </p>
 
 #### Platform&Tools
