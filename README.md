@@ -11,7 +11,7 @@
   更换为 萌界城市天气API（基于和风天气接口和图标库）
   by 晓空 2024.12.10 5:45PM
   -->
-  <img src="https://api-weather-icon.moeworld.top/weather-icon?city=台州" align="right">
+  <img src="https://api-weather-icon.moeworld.top/weather-icon-proxy?city=%e5%8f%b0%e5%b7%9e" align="right">
 </p>
 
 #### Platform&Tools
