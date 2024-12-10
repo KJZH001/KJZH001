@@ -1,12 +1,17 @@
 <p>
   <a href="https://count.getloli.com/get/"><img src="https://count.getloli.com/get/@MoeRinSora"></a>
-  <img src="https://api.moeworld.top/weather-icon/?@wenzhou?v=1" align="right">
   <!--
   这个天气的图标真的是个遗憾的故事
   我翻遍了谷歌也没找到完整的一套图标，这个服务也随着replit关闭免费服务而倒下了
   从互联网档案馆翻遍了，也只取回了三张缓存下来的图标，尽力了= =
   当前三张图标随机返回，夜晚仅会在晚上触发，中国标准时为准
-  by 晓空 2024.3.30 7:35PM-->
+  by 晓空 2024.3.30 7:35PM
+  <img src="https://api.moeworld.top/weather-icon/?@wenzhou?v=1" align="right">
+  此接口正式下线，但目前还作为萌界接口的一部分保留着，如果你需要的话可以继续使用
+  更换为 萌界城市天气API（基于和风天气接口和图标库）
+  by 晓空 2024.12.10 5:45PM
+  -->
+  <img src="https://api-weather-icon.moeworld.top/weather-icon?city=台州" align="right">
 </p>
 
 #### Platform&Tools
