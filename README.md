@@ -14,7 +14,8 @@
   <img src="https://api-weather-icon.moeworld.top/weather-icon-proxy?city=%e5%8f%b0%e5%b7%9e" align="right" 
     style="width: 100px;
     height: 100px;
-    padding: 24px;">
+    padding: 24px;
+    padding-right: 1vw;">
 </p>
 
 #### Platform&Tools
