@@ -40,7 +40,8 @@
 [![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
 [![](https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/-Nginx-00a8e8?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/cn/)
-[![](https://img.shields.io/badge/-Apache-00a8e8?style=flat-square&logo=apache&logoColor=ffffff)](https://httpd.apache.org/)
+[![](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=ffffff)](https://httpd.apache.org/)
+[![](https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=apache&logoColor=ffffff)](https://www.python.org/)
 
 ⬇️**点击下方图片留言**⬇️
 
