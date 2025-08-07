@@ -11,20 +11,23 @@
   更换为 萌界城市天气API（基于和风天气接口和图标库）
   by 晓空 2024.12.10 5:45PM
  -->
-  可选版本1：和风天气图标（最稳定）
+  
+  <!--可选版本1：和风天气图标（最稳定）
   <img src="https://api-weather-icon.moeworld.top/weather-icon-proxy?city=%e5%8f%b0%e5%b7%9e" align="right" 
     style="width: 100px;
     height: 100px;
     padding: 24px;
     padding-right: 1vw;">
+-->
 
 <!--
   下面是可选版本2：自行复刻的weather-icon.journeyad.repl.co的接口（当然和原来的那个已经没有什么关系了）
   这里感谢狗子提供的老图标css，否则估计我也没有机会能够复刻成功了吧？
   目前为初步测试，炸了也正常233
+  by 晓空 2025.8.7
+ -->
+  <img src="https://api-weather-icon.moeworld.top/weather-icon-moedog-and-xiaokong-proxy?city=%e5%8f%b0%e5%b7%9e" align="right">
  
-  <img src="https://api-weather-icon.moeworld.top/weather-icon-moedog-and-xiaokong?city=%e5%8f%b0%e5%b7%9e" align="right">
-  -->
 </p>
 
 #### Platform&Tools
