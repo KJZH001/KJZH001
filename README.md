@@ -39,6 +39,9 @@
 [![](https://img.shields.io/badge/Windows%20Server-2022-262577?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows-server)
 <!--[![](https://img.shields.io/badge/Mi-8%20UD-f45a00?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/)-->
 
+[![](https://img.shields.io/badge/Debian-11-c70036?style=flat-square&logo=windows&logoColor=ffffff)](https://www.debian.org/releases/bullseye/)
+[![](https://img.shields.io/badge/Debian-12-c70036?style=flat-square&logo=windows&logoColor=ffffff)](https://www.debian.org/releases/bookworm/)
+
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=codeceptjs&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/IDE-IDEA-blue?style=flat-square&logo=intellijidea&logoColor=ffffff)](https://www.jetbrains.com/zh-cn/idea/)
 
