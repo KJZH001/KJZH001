@@ -72,6 +72,12 @@
 摸鱼   🕓 168h0m ██████████████████████████ 100.0%
 干活   🕓 0h0m   ░░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00%
 ```
+#### Latest Blog Posts
+
+< !-- BLOG-POST-LIST:START -->
+< !-- BLOG-POST-LIST:END -->
+
+
 
 <!--
 **MoeRinSora/MoeRinSora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
