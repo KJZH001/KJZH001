@@ -1,0 +1,19 @@
+name: Blog Posts
+
+on:
+  # 触发时间：每天的早上2点26分
+  schedule:
+    - cron: '26 2 * * *'
+  # 允许手动触发
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          # comma-separated list of RSS feed urls
+          feed_list: "https://blog.moeworld.tech/feed/"
