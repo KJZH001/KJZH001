@@ -41,7 +41,6 @@
 
 [![](https://img.shields.io/badge/Debian-11-c70036?style=flat-square&logo=windows&logoColor=ffffff)](https://www.debian.org/releases/bullseye/)
 [![](https://img.shields.io/badge/Debian-12-c70036?style=flat-square&logo=windows&logoColor=ffffff)](https://www.debian.org/releases/bookworm/)
-
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=codeceptjs&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/IDE-IDEA-blue?style=flat-square&logo=intellijidea&logoColor=ffffff)](https://www.jetbrains.com/zh-cn/idea/)
 
