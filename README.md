@@ -77,11 +77,11 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [【小玩意】为Github的个人主页增加博客的近期文章列表](https://blog.moeworld.tech/2025/09/08/%e3%80%90%e5%b0%8f%e7%8e%a9%e6%84%8f%e3%80%91%e4%b8%bagithub%e7%9a%84%e4%b8%aa%e4%ba%ba%e4%b8%bb%e9%a1%b5%e5%a2%9e%e5%8a%a0%e5%8d%9a%e5%ae%a2%e7%9a%84%e8%bf%91%e6%9c%9f%e6%96%87%e7%ab%a0%e5%88%97/)
 - [【水】给网站底部增加了一段魔法咒语](https://blog.moeworld.tech/2025/09/05/%e3%80%90%e6%b0%b4%e3%80%91%e7%bb%99%e7%bd%91%e7%ab%99%e5%ba%95%e9%83%a8%e5%a2%9e%e5%8a%a0%e4%ba%86%e4%b8%80%e6%ae%b5%e9%ad%94%e6%b3%95%e5%92%92%e8%af%ad/)
 - [本站也是光荣送中了（bushi）](https://blog.moeworld.tech/2025/09/04/%e6%9c%ac%e7%ab%99%e4%b9%9f%e6%98%af%e5%85%89%e8%8d%a3%e9%80%81%e4%b8%ad%e4%ba%86%ef%bc%88bushi%ef%bc%89/)
 - [英语四级、通过纪念](https://blog.moeworld.tech/2025/08/17/%e8%8b%b1%e8%af%ad%e5%9b%9b%e7%ba%a7%e3%80%81%e9%80%9a%e8%bf%87%e7%ba%aa%e5%bf%b5/)
 - [跨越了一年半的重逢 weather-icon.journeyad](https://blog.moeworld.tech/2025/08/07/%e8%b7%a8%e8%b6%8a%e4%ba%86%e4%b8%80%e5%b9%b4%e5%8d%8a%e7%9a%84%e9%87%8d%e9%80%a2-weather-icon-journeyad/)
-- [记录自己近期Telegram账户受限后又申诉解封的经历](https://blog.moeworld.tech/2025/08/05/%e8%ae%b0%e5%bd%95%e8%87%aa%e5%b7%b1%e8%bf%91%e6%9c%9ftelegram%e8%b4%a6%e6%88%b7%e5%8f%97%e9%99%90%e5%90%8e%e5%8f%88%e7%94%b3%e8%af%89%e8%a7%a3%e5%b0%81%e7%9a%84%e7%bb%8f%e5%8e%86/)
 <!-- BLOG-POST-LIST:END -->
 
 
