@@ -77,11 +77,11 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [你好，世界！——来自七年前的问候](https://blog.moeworld.tech/2025/09/14/%e4%bd%a0%e5%a5%bd%ef%bc%8c%e4%b8%96%e7%95%8c%ef%bc%81-%e6%9d%a5%e8%87%aa%e4%b8%83%e5%b9%b4%e5%89%8d%e7%9a%84%e9%97%ae%e5%80%99/)
 - [收到了来自GoodBoyboy的明信片](https://blog.moeworld.tech/2025/09/11/%e6%94%b6%e5%88%b0%e4%ba%86%e6%9d%a5%e8%87%aagoodboyboy%e7%9a%84%e6%98%8e%e4%bf%a1%e7%89%87/)
 - [大陆区分站建设计划、一些碎碎念](https://blog.moeworld.tech/2025/09/10/%e5%a4%a7%e9%99%86%e5%8c%ba%e5%88%86%e7%ab%99%e5%bb%ba%e8%ae%be%e8%ae%a1%e5%88%92%e3%80%81%e4%b8%80%e4%ba%9b%e7%a2%8e%e7%a2%8e%e5%bf%b5/)
 - [【小玩意】为Github的个人主页增加博客的近期文章列表](https://blog.moeworld.tech/2025/09/08/%e3%80%90%e5%b0%8f%e7%8e%a9%e6%84%8f%e3%80%91%e4%b8%bagithub%e7%9a%84%e4%b8%aa%e4%ba%ba%e4%b8%bb%e9%a1%b5%e5%a2%9e%e5%8a%a0%e5%8d%9a%e5%ae%a2%e7%9a%84%e8%bf%91%e6%9c%9f%e6%96%87%e7%ab%a0%e5%88%97/)
 - [【水】给网站底部增加了一段魔法咒语](https://blog.moeworld.tech/2025/09/05/%e3%80%90%e6%b0%b4%e3%80%91%e7%bb%99%e7%bd%91%e7%ab%99%e5%ba%95%e9%83%a8%e5%a2%9e%e5%8a%a0%e4%ba%86%e4%b8%80%e6%ae%b5%e9%ad%94%e6%b3%95%e5%92%92%e8%af%ad/)
-- [本站也是光荣送中了（bushi）](https://blog.moeworld.tech/2025/09/04/%e6%9c%ac%e7%ab%99%e4%b9%9f%e6%98%af%e5%85%89%e8%8d%a3%e9%80%81%e4%b8%ad%e4%ba%86%ef%bc%88bushi%ef%bc%89/)
 <!-- BLOG-POST-LIST:END -->
 
 
