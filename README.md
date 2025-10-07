@@ -77,11 +77,11 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [中秋节x国庆 假期快乐！](https://blog.moeworld.tech/2025/10/06/%e4%b8%ad%e7%a7%8b%e8%8a%82x%e5%9b%bd%e5%ba%86-%e5%81%87%e6%9c%9f%e5%bf%ab%e4%b9%90%ef%bc%81/)
 - [Google 27 岁啦！](https://blog.moeworld.tech/2025/09/27/google-27-%e5%b2%81%e5%95%a6%ef%bc%81/)
 - [【备案那些事儿】备案号下来咯！](https://blog.moeworld.tech/2025/09/24/%e3%80%90%e5%a4%87%e6%a1%88%e9%82%a3%e4%ba%9b%e4%ba%8b%e5%84%bf%e3%80%91%e5%a4%87%e6%a1%88%e5%8f%b7%e4%b8%8b%e6%9d%a5%e5%92%af%ef%bc%81/)
 - [【备案那些事儿】终于走到管局审核了](https://blog.moeworld.tech/2025/09/17/%e3%80%90%e5%a4%87%e6%a1%88%e9%82%a3%e4%ba%9b%e4%ba%8b%e5%84%bf%e3%80%91%e7%bb%88%e4%ba%8e%e8%b5%b0%e5%88%b0%e7%ae%a1%e5%b1%80%e5%ae%a1%e6%a0%b8%e4%ba%86/)
 - [空域-晓空Blog 七周年 成就达成！](https://blog.moeworld.tech/2025/09/15/%e7%a9%ba%e5%9f%9f-%e6%99%93%e7%a9%bablog-%e4%b8%83%e5%91%a8%e5%b9%b4-%e6%88%90%e5%b0%b1%e8%be%be%e6%88%90%ef%bc%81/)
-- [你好，世界！——来自七年前的问候](https://blog.moeworld.tech/2025/09/14/%e4%bd%a0%e5%a5%bd%ef%bc%8c%e4%b8%96%e7%95%8c%ef%bc%81-%e6%9d%a5%e8%87%aa%e4%b8%83%e5%b9%b4%e5%89%8d%e7%9a%84%e9%97%ae%e5%80%99/)
 <!-- BLOG-POST-LIST:END -->
 
 
