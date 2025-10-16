@@ -78,11 +78,11 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [vivo手机-OriginOS OEM定制安卓系统-应用保活](https://blog.moeworld.tech/2025/10/15/vivo%e6%89%8b%e6%9c%ba-originos-oem%e5%ae%9a%e5%88%b6%e5%ae%89%e5%8d%93%e7%b3%bb%e7%bb%9f-%e5%ba%94%e7%94%a8%e4%bf%9d%e6%b4%bb/)
 - [记录一次高铁学生票的坐车经历](https://blog.moeworld.tech/2025/10/14/%e8%ae%b0%e5%bd%95%e4%b8%80%e6%ac%a1%e9%ab%98%e9%93%81%e5%ad%a6%e7%94%9f%e7%a5%a8%e7%9a%84%e5%9d%90%e8%bd%a6%e7%bb%8f%e5%8e%86/)
 - [刷新k3s的证书以实现远程访问](https://blog.moeworld.tech/2025/10/14/%e5%88%b7%e6%96%b0k3s%e7%9a%84%e8%af%81%e4%b9%a6%e4%bb%a5%e5%ae%9e%e7%8e%b0%e8%bf%9c%e7%a8%8b%e8%ae%bf%e9%97%ae/)
 - [中秋节x国庆 假期快乐！](https://blog.moeworld.tech/2025/10/06/%e4%b8%ad%e7%a7%8b%e8%8a%82x%e5%9b%bd%e5%ba%86-%e5%81%87%e6%9c%9f%e5%bf%ab%e4%b9%90%ef%bc%81/)
 - [Google 27 岁啦！](https://blog.moeworld.tech/2025/09/27/google-27-%e5%b2%81%e5%95%a6%ef%bc%81/)
-- [【备案那些事儿】备案号下来咯！](https://blog.moeworld.tech/2025/09/24/%e3%80%90%e5%a4%87%e6%a1%88%e9%82%a3%e4%ba%9b%e4%ba%8b%e5%84%bf%e3%80%91%e5%a4%87%e6%a1%88%e5%8f%b7%e4%b8%8b%e6%9d%a5%e5%92%af%ef%bc%81/)
 <!-- BLOG-POST-LIST:END -->
 
 
