@@ -78,11 +78,11 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [又一次难忘的Cloudflare降级事故](https://blog.moeworld.tech/2025/11/18/%e5%8f%88%e4%b8%80%e6%ac%a1%e9%9a%be%e5%bf%98%e7%9a%84cloudflare%e9%99%8d%e7%ba%a7%e4%ba%8b%e6%95%85/)
 - [2025年10月 高等教育自学考试，圆满落幕！](https://blog.moeworld.tech/2025/10/29/2025%e5%b9%b410%e6%9c%88-%e9%ab%98%e7%ad%89%e6%95%99%e8%82%b2%e8%87%aa%e5%ad%a6%e8%80%83%e8%af%95%ef%bc%8c%e5%9c%86%e6%bb%a1%e8%90%bd%e5%b9%95%ef%bc%81/)
 - [明天，25年10月全国高等教育自学考试](https://blog.moeworld.tech/2025/10/24/%e6%98%8e%e5%a4%a9%ef%bc%8c25%e5%b9%b410%e6%9c%88%e5%85%a8%e5%9b%bd%e9%ab%98%e7%ad%89%e6%95%99%e8%82%b2%e8%87%aa%e5%ad%a6%e8%80%83%e8%af%95/)
 - [【谨此纪念】公安备案号也拿下来了](https://blog.moeworld.tech/2025/10/18/%e3%80%90%e8%b0%a8%e6%ad%a4%e7%ba%aa%e5%bf%b5%e3%80%91%e5%85%ac%e5%ae%89%e5%a4%87%e6%a1%88%e5%8f%b7%e4%b9%9f%e6%8b%bf%e4%b8%8b%e6%9d%a5%e4%ba%86/)
 - [vivo手机-OriginOS OEM定制安卓系统-应用保活](https://blog.moeworld.tech/2025/10/15/vivo%e6%89%8b%e6%9c%ba-originos-oem%e5%ae%9a%e5%88%b6%e5%ae%89%e5%8d%93%e7%b3%bb%e7%bb%9f-%e5%ba%94%e7%94%a8%e4%bf%9d%e6%b4%bb/)
-- [记录一次高铁学生票的坐车经历](https://blog.moeworld.tech/2025/10/14/%e8%ae%b0%e5%bd%95%e4%b8%80%e6%ac%a1%e9%ab%98%e9%93%81%e5%ad%a6%e7%94%9f%e7%a5%a8%e7%9a%84%e5%9d%90%e8%bd%a6%e7%bb%8f%e5%8e%86/)
 <!-- BLOG-POST-LIST:END -->
 
 
