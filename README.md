@@ -78,11 +78,11 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [【公告】站点许可协议变更通知](https://blog.moeworld.tech/2025/12/11/%e3%80%90%e5%85%ac%e5%91%8a%e3%80%91%e7%ab%99%e7%82%b9%e8%ae%b8%e5%8f%af%e5%8d%8f%e8%ae%ae%e5%8f%98%e6%9b%b4%e9%80%9a%e7%9f%a5/)
 - [Debian系统更新记录-以11到13为例](https://blog.moeworld.tech/2025/12/05/debian%e7%b3%bb%e7%bb%9f%e6%9b%b4%e6%96%b0%e8%ae%b0%e5%bd%95-%e4%bb%a511%e5%88%b013%e4%b8%ba%e4%be%8b/)
 - [近况、十一月底、自考出分](https://blog.moeworld.tech/2025/11/24/%e8%bf%91%e5%86%b5%e3%80%81%e5%8d%81%e4%b8%80%e6%9c%88%e5%ba%95%e3%80%81%e8%87%aa%e8%80%83%e5%87%ba%e5%88%86/)
 - [又一次难忘的Cloudflare降级事故](https://blog.moeworld.tech/2025/11/18/%e5%8f%88%e4%b8%80%e6%ac%a1%e9%9a%be%e5%bf%98%e7%9a%84cloudflare%e9%99%8d%e7%ba%a7%e4%ba%8b%e6%95%85/)
 - [2025年10月 高等教育自学考试，圆满落幕！](https://blog.moeworld.tech/2025/10/29/2025%e5%b9%b410%e6%9c%88-%e9%ab%98%e7%ad%89%e6%95%99%e8%82%b2%e8%87%aa%e5%ad%a6%e8%80%83%e8%af%95%ef%bc%8c%e5%9c%86%e6%bb%a1%e8%90%bd%e5%b9%95%ef%bc%81/)
-- [明天，25年10月全国高等教育自学考试](https://blog.moeworld.tech/2025/10/24/%e6%98%8e%e5%a4%a9%ef%bc%8c25%e5%b9%b410%e6%9c%88%e5%85%a8%e5%9b%bd%e9%ab%98%e7%ad%89%e6%95%99%e8%82%b2%e8%87%aa%e5%ad%a6%e8%80%83%e8%af%95/)
 <!-- BLOG-POST-LIST:END -->
 
 
