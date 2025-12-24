@@ -78,11 +78,11 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [桌面Linux那些事儿1：Debian 13 部署 XRDP](https://blog.moeworld.tech/2025/12/23/%e6%a1%8c%e9%9d%a2linux%e9%82%a3%e4%ba%9b%e4%ba%8b%e5%84%bf1%ef%bc%9adebian-13-%e9%83%a8%e7%bd%b2-xrdp/)
 - [近况/毕业半年了](https://blog.moeworld.tech/2025/12/17/%e8%bf%91%e5%86%b5-%e6%af%95%e4%b8%9a%e5%8d%8a%e5%b9%b4%e4%ba%86/)
 - [编译安装OpenSSL](https://blog.moeworld.tech/2025/12/17/%e7%bc%96%e8%af%91%e5%ae%89%e8%a3%85openssl/)
 - [近况/九月/开学季/十二月/技师培训](https://blog.moeworld.tech/2025/12/13/%e8%bf%91%e5%86%b5-%e4%b9%9d%e6%9c%88-%e5%bc%80%e5%ad%a6%e5%ad%a3-%e5%8d%81%e4%ba%8c%e6%9c%88-%e6%8a%80%e5%b8%88%e5%9f%b9%e8%ae%ad/)
 - [【公告】站点许可协议变更通知](https://blog.moeworld.tech/2025/12/11/%e3%80%90%e5%85%ac%e5%91%8a%e3%80%91%e7%ab%99%e7%82%b9%e8%ae%b8%e5%8f%af%e5%8d%8f%e8%ae%ae%e5%8f%98%e6%9b%b4%e9%80%9a%e7%9f%a5/)
-- [Debian系统更新记录-以11到13为例](https://blog.moeworld.tech/2025/12/05/debian%e7%b3%bb%e7%bb%9f%e6%9b%b4%e6%96%b0%e8%ae%b0%e5%bd%95-%e4%bb%a511%e5%88%b013%e4%b8%ba%e4%be%8b/)
 <!-- BLOG-POST-LIST:END -->
 
 
