@@ -78,11 +78,11 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [【公告】现已关闭游客评论](https://blog.moeworld.tech/2026/01/15/%e3%80%90%e5%85%ac%e5%91%8a%e3%80%91%e7%8e%b0%e5%b7%b2%e5%85%b3%e9%97%ad%e6%b8%b8%e5%ae%a2%e8%af%84%e8%ae%ba/)
 - [关于威联通和Tailscale的那些坑-自建Derp](https://blog.moeworld.tech/2026/01/14/%e5%85%b3%e4%ba%8e%e5%a8%81%e8%81%94%e9%80%9a%e5%92%8ctailscale%e7%9a%84%e9%82%a3%e4%ba%9b%e5%9d%91-%e8%87%aa%e5%bb%baderp/)
 - [2025x2026 元旦快乐](https://blog.moeworld.tech/2025/12/31/2025x2026-%e5%85%83%e6%97%a6%e5%bf%ab%e4%b9%90/)
 - [2025x2026圣诞节](https://blog.moeworld.tech/2025/12/24/2025x2026%e5%9c%a3%e8%af%9e%e8%8a%82/)
 - [桌面Linux那些事儿1：Debian 13 部署 XRDP](https://blog.moeworld.tech/2025/12/23/%e6%a1%8c%e9%9d%a2linux%e9%82%a3%e4%ba%9b%e4%ba%8b%e5%84%bf1%ef%bc%9adebian-13-%e9%83%a8%e7%bd%b2-xrdp/)
-- [近况/毕业半年了](https://blog.moeworld.tech/2025/12/17/%e8%bf%91%e5%86%b5-%e6%af%95%e4%b8%9a%e5%8d%8a%e5%b9%b4%e4%ba%86/)
 <!-- BLOG-POST-LIST:END -->
 
 
