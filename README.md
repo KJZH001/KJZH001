@@ -78,11 +78,11 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2026 春节放假](https://blog.moeworld.tech/2026/02/09/2026-%e6%98%a5%e8%8a%82%e6%94%be%e5%81%87/)
 - [22岁x2026阳历生日](https://blog.moeworld.tech/2026/01/17/22%e5%b2%81x2026%e9%98%b3%e5%8e%86%e7%94%9f%e6%97%a5/)
 - [2026/04 自考报名](https://blog.moeworld.tech/2026/01/16/2026-04-%e8%87%aa%e8%80%83%e6%8a%a5%e5%90%8d/)
 - [【公告】现已关闭游客评论](https://blog.moeworld.tech/2026/01/15/%e3%80%90%e5%85%ac%e5%91%8a%e3%80%91%e7%8e%b0%e5%b7%b2%e5%85%b3%e9%97%ad%e6%b8%b8%e5%ae%a2%e8%af%84%e8%ae%ba/)
 - [关于威联通和Tailscale的那些坑-自建Derp](https://blog.moeworld.tech/2026/01/14/%e5%85%b3%e4%ba%8e%e5%a8%81%e8%81%94%e9%80%9a%e5%92%8ctailscale%e7%9a%84%e9%82%a3%e4%ba%9b%e5%9d%91-%e8%87%aa%e5%bb%baderp/)
-- [2025x2026 元旦快乐](https://blog.moeworld.tech/2025/12/31/2025x2026-%e5%85%83%e6%97%a6%e5%bf%ab%e4%b9%90/)
 <!-- BLOG-POST-LIST:END -->
 
 
