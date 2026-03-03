@@ -78,11 +78,11 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2026元宵节（上元节）x月食](https://blog.moeworld.tech/2026/03/03/2026%e5%85%83%e5%ae%b5%e8%8a%82%ef%bc%88%e4%b8%8a%e5%85%83%e8%8a%82%ef%bc%89x%e6%9c%88%e9%a3%9f/)
 - [【补丁】找回高版本NX丢失的剖视图和基本视图](https://blog.moeworld.tech/2026/02/26/%e3%80%90%e8%a1%a5%e4%b8%81%e3%80%91%e6%89%be%e5%9b%9e%e9%ab%98%e7%89%88%e6%9c%acnx%e4%b8%a2%e5%a4%b1%e7%9a%84%e5%89%96%e8%a7%86%e5%9b%be%e5%92%8c%e5%9f%ba%e6%9c%ac%e8%a7%86%e5%9b%be/)
 - [2026 新春快乐](https://blog.moeworld.tech/2026/02/17/2026-%e6%96%b0%e6%98%a5%e5%bf%ab%e4%b9%90/)
 - [2026.02 近况、农历生日、除夕](https://blog.moeworld.tech/2026/02/16/2026-02-%e8%bf%91%e5%86%b5%e3%80%81%e5%86%9c%e5%8e%86%e7%94%9f%e6%97%a5%e3%80%81%e9%99%a4%e5%a4%95/)
 - [2026 春节放假](https://blog.moeworld.tech/2026/02/09/2026-%e6%98%a5%e8%8a%82%e6%94%be%e5%81%87/)
-- [22岁x2026阳历生日](https://blog.moeworld.tech/2026/01/17/22%e5%b2%81x2026%e9%98%b3%e5%8e%86%e7%94%9f%e6%97%a5/)
 <!-- BLOG-POST-LIST:END -->
 
 
