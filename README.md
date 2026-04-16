@@ -78,11 +78,11 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2026.04 近况/自考落幕](https://blog.moeworld.tech/2026/04/15/2026-04-%e8%bf%91%e5%86%b5-%e8%87%aa%e8%80%83%e8%90%bd%e5%b9%95/)
 - [关于Unity China的后续记录](https://blog.moeworld.tech/2026/04/03/%e5%85%b3%e4%ba%8eunity-china%e7%9a%84%e5%90%8e%e7%bb%ad%e8%ae%b0%e5%bd%95/)
 - [关于Unity China偷偷更换了LTS的安装包的这档事](https://blog.moeworld.tech/2026/03/11/%e5%85%b3%e4%ba%8eunity-china%e5%81%b7%e5%81%b7%e6%9b%b4%e6%8d%a2%e4%ba%86lts%e7%9a%84%e5%ae%89%e8%a3%85%e5%8c%85%e7%9a%84%e8%bf%99%e6%a1%a3%e4%ba%8b/)
 - [2026元宵节（上元节）x月食](https://blog.moeworld.tech/2026/03/03/2026%e5%85%83%e5%ae%b5%e8%8a%82%ef%bc%88%e4%b8%8a%e5%85%83%e8%8a%82%ef%bc%89x%e6%9c%88%e9%a3%9f/)
 - [【补丁】找回高版本NX丢失的剖视图和基本视图](https://blog.moeworld.tech/2026/02/26/%e3%80%90%e8%a1%a5%e4%b8%81%e3%80%91%e6%89%be%e5%9b%9e%e9%ab%98%e7%89%88%e6%9c%acnx%e4%b8%a2%e5%a4%b1%e7%9a%84%e5%89%96%e8%a7%86%e5%9b%be%e5%92%8c%e5%9f%ba%e6%9c%ac%e8%a7%86%e5%9b%be/)
-- [2026 新春快乐](https://blog.moeworld.tech/2026/02/17/2026-%e6%96%b0%e6%98%a5%e5%bf%ab%e4%b9%90/)
 <!-- BLOG-POST-LIST:END -->
 
 
