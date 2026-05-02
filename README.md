@@ -78,11 +78,11 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [近况、2026x五一快乐](https://blog.moeworld.tech/2026/05/02/%e8%bf%91%e5%86%b5%e3%80%812026x%e4%ba%94%e4%b8%80%e5%bf%ab%e4%b9%90/)
 - [【公告】游客评论已重新对外开放](https://blog.moeworld.tech/2026/04/20/%e3%80%90%e5%85%ac%e5%91%8a%e3%80%91%e6%b8%b8%e5%ae%a2%e8%af%84%e8%ae%ba%e5%b7%b2%e9%87%8d%e6%96%b0%e5%af%b9%e5%a4%96%e5%bc%80%e6%94%be/)
 - [2026.04 近况/自考落幕](https://blog.moeworld.tech/2026/04/15/2026-04-%e8%bf%91%e5%86%b5-%e8%87%aa%e8%80%83%e8%90%bd%e5%b9%95/)
 - [关于Unity China的后续记录](https://blog.moeworld.tech/2026/04/03/%e5%85%b3%e4%ba%8eunity-china%e7%9a%84%e5%90%8e%e7%bb%ad%e8%ae%b0%e5%bd%95/)
 - [关于Unity China偷偷更换了LTS的安装包的这档事](https://blog.moeworld.tech/2026/03/11/%e5%85%b3%e4%ba%8eunity-china%e5%81%b7%e5%81%b7%e6%9b%b4%e6%8d%a2%e4%ba%86lts%e7%9a%84%e5%ae%89%e8%a3%85%e5%8c%85%e7%9a%84%e8%bf%99%e6%a1%a3%e4%ba%8b/)
-- [2026元宵节（上元节）x月食](https://blog.moeworld.tech/2026/03/03/2026%e5%85%83%e5%ae%b5%e8%8a%82%ef%bc%88%e4%b8%8a%e5%85%83%e8%8a%82%ef%bc%89x%e6%9c%88%e9%a3%9f/)
 <!-- BLOG-POST-LIST:END -->
 
 
