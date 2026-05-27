@@ -63,7 +63,11 @@
 ⬇️**点击下方图片留言**⬇️ 
 
 [![](https://chat-room.moeworld.top/room/@KJZH001/svg?width=600&height=150&limit=20&theme=light&title=KJZH001@github:%20~&fontSize=13)](https://chat-room.moeworld.top/room/@KJZH001?title=晓空的Github留言板)
-<br /><small>*NOTE: 此处留言通常不会收到回复，如需回复请在其他渠道联系*</small>
+<br />
+<small>
+*NOTE: 此处留言通常不会收到回复，如需回复请在其他渠道联系*<br />
+由于缓存原因，您可能无法正确加载下方的统计信息，通常刷新一次页面即可恢复正常
+</small>
 
 #### Github Stats
 [![info](https://github-readme-stats-gray-alpha-29.vercel.app/api?username=KJZH001&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
