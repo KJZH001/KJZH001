@@ -70,8 +70,10 @@
 </small>
 
 #### Github Stats
-[![Github Stats](https://github-readme-stats-git-main-kjzh001s-projects.vercel.app/api?username=KJZH001&show_icons=true&line_height=20&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-本年-->
+<!--[![Github Stats](https://github-readme-stats-git-main-kjzh001s-projects.vercel.app/api?username=KJZH001&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--全部-->
+[![Github Stats](https://github-readme-stats-git-main-kjzh001s-projects.vercel.app/api?username=KJZH001&show_icons=true&line_height=20&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 #### Top Langs
 [![Top Langs](https://github-readme-stats-gray-alpha-29.vercel.app/api/top-langs/?username=KJZH001&layout=compact&langs_count=6&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
