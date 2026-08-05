@@ -85,11 +85,11 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [关于Microsoft Windows一波更新推送让我大晚上被迫加班的这档事](https://blog.moeworld.tech/2026/08/04/%e5%85%b3%e4%ba%8emicrosoft-windows%e4%b8%80%e6%b3%a2%e6%9b%b4%e6%96%b0%e6%8e%a8%e9%80%81%e8%ae%a9%e6%88%91%e5%a4%a7%e6%99%9a%e4%b8%8a%e8%a2%ab%e8%bf%ab%e5%8a%a0%e7%8f%ad%e7%9a%84%e8%bf%99%e6%a1%a3/)
 - [台风巴威&amp;过境之后的台州](https://blog.moeworld.tech/2026/07/16/%e5%8f%b0%e9%a3%8e%e5%b7%b4%e5%a8%81%e8%bf%87%e5%a2%83%e4%b9%8b%e5%90%8e%e7%9a%84%e5%8f%b0%e5%b7%9e/)
 - [2026端午节快乐](https://blog.moeworld.tech/2026/06/20/2026%e7%ab%af%e5%8d%88%e8%8a%82%e5%bf%ab%e4%b9%90/)
 - [【毕业周年祭】永远年轻、永远的热泪盈眶](https://blog.moeworld.tech/2026/06/17/%e3%80%90%e6%af%95%e4%b8%9a%e5%91%a8%e5%b9%b4%e7%a5%ad%e3%80%91%e6%b0%b8%e8%bf%9c%e5%b9%b4%e8%bd%bb%e3%80%81%e6%b0%b8%e8%bf%9c%e7%9a%84%e7%83%ad%e6%b3%aa%e7%9b%88%e7%9c%b6/)
 - [六一快乐](https://blog.moeworld.tech/2026/06/01/%e5%85%ad%e4%b8%80%e5%bf%ab%e4%b9%90/)
-- [近况、2026x五一快乐](https://blog.moeworld.tech/2026/05/02/%e8%bf%91%e5%86%b5%e3%80%812026x%e4%ba%94%e4%b8%80%e5%bf%ab%e4%b9%90/)
 <!-- BLOG-POST-LIST:END -->
 
 
