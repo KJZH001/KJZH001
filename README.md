@@ -85,11 +85,11 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [毕业后遭遇的第一场失窃案件](https://blog.moeworld.tech/2026/09/19/%e6%af%95%e4%b8%9a%e5%90%8e%e9%81%ad%e9%81%87%e7%9a%84%e7%ac%ac%e4%b8%80%e5%9c%ba%e5%a4%b1%e7%aa%83%e6%a1%88%e4%bb%b6/)
 - [空梦Project 现在是 home.moeworld.top](https://blog.moeworld.tech/2026/09/10/%e7%a9%ba%e6%a2%a6project-%e7%8e%b0%e5%9c%a8%e6%98%af-home-moeworld-top/)
 - [公寓网络优化&amp;购入一张RTL8152b网卡](https://blog.moeworld.tech/2026/08/20/%e5%85%ac%e5%af%93%e7%bd%91%e7%bb%9c%e4%bc%98%e5%8c%96%e8%b4%ad%e5%85%a5%e4%b8%80%e5%bc%a0rtl8152b%e7%bd%91%e5%8d%a1/)
 - [关于Microsoft Windows一波更新推送让我大晚上被迫加班的这档事](https://blog.moeworld.tech/2026/08/04/%e5%85%b3%e4%ba%8emicrosoft-windows%e4%b8%80%e6%b3%a2%e6%9b%b4%e6%96%b0%e6%8e%a8%e9%80%81%e8%ae%a9%e6%88%91%e5%a4%a7%e6%99%9a%e4%b8%8a%e8%a2%ab%e8%bf%ab%e5%8a%a0%e7%8f%ad%e7%9a%84%e8%bf%99%e6%a1%a3/)
 - [台风巴威&amp;过境之后的台州](https://blog.moeworld.tech/2026/07/16/%e5%8f%b0%e9%a3%8e%e5%b7%b4%e5%a8%81%e8%bf%87%e5%a2%83%e4%b9%8b%e5%90%8e%e7%9a%84%e5%8f%b0%e5%b7%9e/)
-- [2026端午节快乐](https://blog.moeworld.tech/2026/06/20/2026%e7%ab%af%e5%8d%88%e8%8a%82%e5%bf%ab%e4%b9%90/)
 <!-- BLOG-POST-LIST:END -->
 
 
