@@ -85,11 +85,11 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2026国庆节快乐~](https://blog.moeworld.tech/2026/10/02/2026%e5%9b%bd%e5%ba%86%e8%8a%82%e5%bf%ab%e4%b9%90/)
 - [收到了来自知乎的邀请函](https://blog.moeworld.tech/2026/09/28/%e6%94%b6%e5%88%b0%e4%ba%86%e6%9d%a5%e8%87%aa%e7%9f%a5%e4%b9%8e%e7%9a%84%e9%82%80%e8%af%b7%e5%87%bd/)
 - [2026中秋节快乐](https://blog.moeworld.tech/2026/09/28/2026%e4%b8%ad%e7%a7%8b%e8%8a%82%e5%bf%ab%e4%b9%90/)
 - [毕业后遭遇的第一场失窃案件](https://blog.moeworld.tech/2026/09/19/%e6%af%95%e4%b8%9a%e5%90%8e%e9%81%ad%e9%81%87%e7%9a%84%e7%ac%ac%e4%b8%80%e5%9c%ba%e5%a4%b1%e7%aa%83%e6%a1%88%e4%bb%b6/)
 - [空梦Project 现在是 home.moeworld.top](https://blog.moeworld.tech/2026/09/10/%e7%a9%ba%e6%a2%a6project-%e7%8e%b0%e5%9c%a8%e6%98%af-home-moeworld-top/)
-- [公寓网络优化&amp;购入一张RTL8152b网卡](https://blog.moeworld.tech/2026/08/20/%e5%85%ac%e5%af%93%e7%bd%91%e7%bb%9c%e4%bc%98%e5%8c%96%e8%b4%ad%e5%85%a5%e4%b8%80%e5%bc%a0rtl8152b%e7%bd%91%e5%8d%a1/)
 <!-- BLOG-POST-LIST:END -->
 
 
