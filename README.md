@@ -85,11 +85,11 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [关于远程桌面下使用PhotoShop的小技巧——解决GPU调度问题](https://blog.moeworld.tech/2026/11/09/%e5%85%b3%e4%ba%8e%e8%bf%9c%e7%a8%8b%e6%a1%8c%e9%9d%a2%e4%b8%8b%e4%bd%bf%e7%94%a8photoshop%e7%9a%84%e5%b0%8f%e6%8a%80%e5%b7%a7-%e8%a7%a3%e5%86%b3gpu%e8%b0%83%e5%ba%a6%e9%97%ae/)
 - [拿到了中国银行联名的B站卡片](https://blog.moeworld.tech/2026/10/23/%e6%8b%bf%e5%88%b0%e4%ba%86%e4%b8%ad%e5%9b%bd%e9%93%b6%e8%a1%8c%e8%81%94%e5%90%8d%e7%9a%84b%e7%ab%99%e5%8d%a1%e7%89%87/)
 - [2026国庆节快乐~](https://blog.moeworld.tech/2026/10/02/2026%e5%9b%bd%e5%ba%86%e8%8a%82%e5%bf%ab%e4%b9%90/)
 - [收到了来自知乎的邀请函](https://blog.moeworld.tech/2026/09/28/%e6%94%b6%e5%88%b0%e4%ba%86%e6%9d%a5%e8%87%aa%e7%9f%a5%e4%b9%8e%e7%9a%84%e9%82%80%e8%af%b7%e5%87%bd/)
 - [2026中秋节快乐](https://blog.moeworld.tech/2026/09/28/2026%e4%b8%ad%e7%a7%8b%e8%8a%82%e5%bf%ab%e4%b9%90/)
-- [毕业后遭遇的第一场失窃案件](https://blog.moeworld.tech/2026/09/19/%e6%af%95%e4%b8%9a%e5%90%8e%e9%81%ad%e9%81%87%e7%9a%84%e7%ac%ac%e4%b8%80%e5%9c%ba%e5%a4%b1%e7%aa%83%e6%a1%88%e4%bb%b6/)
 <!-- BLOG-POST-LIST:END -->
 
 
